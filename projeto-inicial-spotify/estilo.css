@@ -101,6 +101,10 @@ nav.navbar-transparente {
 }
 
 /* -- Seção Serviço -- */
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
 #servicos {
     background: white;
     padding-top: 20px;
@@ -111,6 +115,7 @@ nav.navbar-transparente {
     padding: 10px 0px 10px 0px;
 }
 
+<<<<<<< HEAD
 /* -- Recursos -- */
 #recursos {
     padding-top: 20px;
@@ -136,6 +141,8 @@ footer {
     float: right;
 }
 
+=======
+>>>>>>> master
 /* =============== Tipografia =============== */
 h1 {
     font-size: 100px;
@@ -156,6 +163,7 @@ h3 {
     letter-spacing: -0.04em;
 }
 
+<<<<<<< HEAD
 #rodape h4 {
     color: #919496;
     font-size: 12px;
@@ -169,4 +177,9 @@ h3 {
 
 #recursos h3 {
     color: #9bf0e1;
+=======
+#servicos h2,
+#servicos h3 {
+    color: #7c25f8;
+>>>>>>> master
 }
